@@ -3,10 +3,12 @@
     "description": "Check an 0-8 array for pattern if it completes a tic Tac toe.",
     "type": "composer-plugin",
     "license": "MIT",
+    "version" : "1.0.2",
     "authors": [
         {
             "name": "Cyd Dalupan",
-            "email": "cydmdalupan@gmail.com"
+            "email": "cydmdalupan@gmail.com",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "stable",
