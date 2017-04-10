@@ -1,5 +1,5 @@
 <?php
-require_once('TicTacToeChecker.php');
+require_once('src/TicTacToeChecker.php');
 
 use Cyddalupan\TicTacToeChecker\TicTacToeChecker as TicTacToeChecker;
 
