@@ -1,0 +1,12 @@
+{
+    "name": "cyddalupan/tic-tac-toe-pattern-checker",
+    "description": "Check an 0-8 array for pattern if it completes a tic Tac toe.",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Cyd Dalupan",
+            "email": "cydmdalupan@gmail.com"
+        }
+    ],
+    "require": {}
+}
