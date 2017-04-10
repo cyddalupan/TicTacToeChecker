@@ -8,5 +8,6 @@
             "email": "cydmdalupan@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
