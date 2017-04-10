@@ -1,6 +1,7 @@
 {
     "name": "cyddalupan/tic-tac-toe-pattern-checker",
     "description": "Check an 0-8 array for pattern if it completes a tic Tac toe.",
+    "keywords": ["tic tac toe","check pattern"],
     "type": "composer-plugin",
     "license": "MIT",
     "version" : "1.0.2",
