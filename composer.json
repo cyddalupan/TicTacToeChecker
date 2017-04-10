@@ -10,5 +10,15 @@
         }
     ],
     "minimum-stability": "stable",
+    "autoload": {
+        "psr-0": {
+            "Cyddalupan\\TicTacToeChecker": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.1"
+        }
+    }
     "require": {}
 }
